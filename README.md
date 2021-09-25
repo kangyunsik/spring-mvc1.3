@@ -1,4 +1,4 @@
-# Study for Spring MVC 1.2
+# Study for Spring MVC 1.3
 
 Inflearn study project (continuing)
 
